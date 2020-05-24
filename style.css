@@ -1,0 +1,16 @@
+.container {
+    border: 10px double black;
+}
+.box1 {
+    height: 200px;
+    background-color: #30336b;
+	cursor:pointer;	
+}
+.box1:hover {
+	transform: scale(1.01);
+	background-color:#130f40;
+}
+	
+.box2 {
+    height: 200px;
+}
